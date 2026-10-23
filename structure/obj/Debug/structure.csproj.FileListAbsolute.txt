@@ -1,0 +1,7 @@
+D:\simss\projectssss\structure\bin\Debug\structure.exe.config
+D:\simss\projectssss\structure\bin\Debug\structure.exe
+D:\simss\projectssss\structure\bin\Debug\structure.pdb
+D:\simss\projectssss\structure\obj\Debug\structure.csproj.AssemblyReference.cache
+D:\simss\projectssss\structure\obj\Debug\structure.csproj.CoreCompileInputs.cache
+D:\simss\projectssss\structure\obj\Debug\structure.exe
+D:\simss\projectssss\structure\obj\Debug\structure.pdb
